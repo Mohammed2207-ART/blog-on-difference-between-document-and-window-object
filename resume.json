@@ -1,0 +1,39 @@
+{
+    "name": "Mohammed Hakkil",
+    "title": "Full Stack Developer",
+    "contact": {
+      "email": "zubairaj22@gmail.com",
+      "phone": "+91 9943026611",
+      "address": "6,balamurugan nagar,samundipuram,tiruppur"
+    },
+    "summary": "Experienced full Stack developer with a passion for creating responsive and user-friendly websites. Proficient in HTML, CSS, and JavaScript. Adept at collaborating with cross-functional teams to deliver high-quality projects.",
+    "skills": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "Responsive Design",
+      "Version Control (Git)"
+    ],
+    "experience": [
+      {
+        "position": "Web designer",
+        "company": "SolidBlocks Design & Digital Solutions",
+        "location": "tiruppur, tamilnadu",
+        "dates": "January 2023 - Present",
+        
+      },
+      
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science in Information technologies",
+        "school": "Bharathidasan university",
+        "graduationYear": 2026
+      }
+    ],
+
+
+}
+  
